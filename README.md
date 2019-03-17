@@ -1,6 +1,10 @@
 # React-Intro
 My First React App
 
+<p style="text-align: center">
+  <img src='./public/window.png' width='600' alt='Window'>
+</p>
+
 ## How to use
 
 Download the example [or clone the repo](https://github.com/Clever-Programmer/react-intro):
