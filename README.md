@@ -1,7 +1,7 @@
 # React-Intro
 My First React App
 
-<p style="text-align: center">
+<p align='center'>
   <img src='./public/window.png' width='600' alt='Window'>
 </p>
 
