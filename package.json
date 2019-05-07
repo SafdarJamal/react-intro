@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "author": {
     "name": "Safdar Jamal",
-    "url": "https://github.com/clever-programmer"
+    "url": "https://github.com/safdarjamal"
   },
-  "description": "",
+  "description": "Single page app introduction",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clever-programmer/react-intro.git"
+    "url": "https://github.com/safdarjamal/react-intro.git"
   },
   "private": true,
   "main": "src/index.js",
