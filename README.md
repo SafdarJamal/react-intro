@@ -1,4 +1,5 @@
 # React-Intro
+
 My First React App
 
 <p align='center'>
@@ -7,11 +8,11 @@ My First React App
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/Clever-Programmer/react-intro):
+Download the example [or clone the repo](https://github.com/safdarjamal/react-intro):
 
 ```bash
 
-git clone https://github.com/Clever-Programmer/react-intro.git
+git clone https://github.com/safdarjamal/react-intro.git
 cd react-intro
 
 ```
