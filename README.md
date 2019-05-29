@@ -8,7 +8,7 @@ My First React App
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/safdarjamal/react-intro):
+Download or [clone the repo](https://github.com/safdarjamal/react-intro):
 
 ```bash
 
