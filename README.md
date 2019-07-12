@@ -25,7 +25,3 @@ npm install
 npm start
 
 ```
-
-## The idea behind the example
-
-[Create React App](https://github.com/facebook/create-react-app) with no build configuration.
