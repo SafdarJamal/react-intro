@@ -5,20 +5,20 @@ body {
 }
 
 header {
-  font-size: 35px;
+  font-size: 30px;
   color: aliceblue;
   background-color: grey;
 }
 
 main {
-  font-size: 35px;
-  padding: 2px;
+  font-size: 30px;
+  padding: 16px;
   color: aliceblue;
   background-color: #0abde3;
 }
 
 footer {
-  font-size: 35px;
+  font-size: 30px;
   color: aliceblue;
   background-color: #0a3d62;
 }
